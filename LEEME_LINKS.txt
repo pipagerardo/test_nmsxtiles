@@ -1,0 +1,53 @@
+-------------------------------------------------------------------
+SciTE
+	Editor de Texto con muchas funciones extra
+		http://www.scintilla.org/SciTEDownload.html
+-------------------------------------------------------------------
+SjasmPG
+	Ensamblador Z80
+		https://github.com/pipagerardo/sjasmpg
+-------------------------------------------------------------------
+OpenMSX
+		https://openmsx.org/
+-------------------------------------------------------------------
+BlueMSX
+		http://www.bluemsx.com/
+		http://bluemsx.msxblue.com/resource.html	ROMS
+-------------------------------------------------------------------
+Meisei 1.3.2
+		http://tsk-tsk.net/ ( Web rota )
+-------------------------------------------------------------------
+nMSXtiles
+	Editor de mapas para MSX
+		https://github.com/pipagerardo/nMSXtiles
+-------------------------------------------------------------------
+VortexTracker1.0beta19
+	Vortex Tracker II Editor de Música.
+	Guardar como: Save as/filename.pt3 (Pro Tracker 3.xx file)
+		http://bulba.untergrund.net/vortex_e.htm
+-------------------------------------------------------------------
+AYfxEdit04
+	Editor de Sonidos FX.
+	Guardar como: File/Save bank w/o names/filename.afb
+		http://shiru.untergrund.net/files/ayfxedit04.zip
+-------------------------------------------------------------------
+PNG2MSX
+	Convierte imágens PNG en MSX SC2
+		https://github.com/pipagerardo/png2msx
+-------------------------------------------------------------------
+GIMP
+	Editor de imágenes GIMP en versión portable.
+		https://www.gimp.org/
+-------------------------------------------------------------------
+TinySprite
+	WEB para editar Sprites.
+		http://msx.jannone.org/tinysprite/tinysprite.html
+-------------------------------------------------------------------
+hexplorer
+	Editor Hexadecimal.
+		https://sourceforge.net/projects/hexplorer/
+-------------------------------------------------------------------
+Tiled
+	Editor de Mapas Genérico
+		http://www.mapeditor.org/
+-------------------------------------------------------------------
